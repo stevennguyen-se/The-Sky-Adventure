@@ -10,4 +10,4 @@ This project is created for academic purposes only.
 ![screenshot3](https://user-images.githubusercontent.com/34677577/39405473-ea094f94-4be8-11e8-984b-560c0a679371.jpg)
 
 ### Download (.exe):
-[Download link](https://drive.google.com/open?id=1XZoZG60ZCc78SLgQ8IZ6dxIBQQNbdf3s)
+[Link](https://drive.google.com/open?id=1XZoZG60ZCc78SLgQ8IZ6dxIBQQNbdf3s)
